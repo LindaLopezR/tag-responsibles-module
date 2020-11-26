@@ -1,0 +1,18 @@
+.table-responsibles {
+    margin-top: 1rem;
+    background-color: white;
+}
+
+.table-responsibles .rt-body {
+    background-color: white;
+}
+
+.table-responsibles .rt-body .rt-td {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.mgt-1 {
+    margin-top: 1rem;
+}
